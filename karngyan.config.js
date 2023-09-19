@@ -52,7 +52,7 @@ export default {
       { title: "Monitor", value: "Samsung LS27R354FHWXXL (27 inch)", link: "https://www.croma.com/samsung-ls27r354fhwxxl-68-5-cm-27-inches-full-hd-flat-panel-game-mode-75hz-ls27r354fhwxxl-grey-/p/260610" },
       { title: "Mouse", value: "Logitech MX Master 3S", link: "https://www.amazon.in/Logitech-MX-Master-3S-Chrome-Graphite/dp/B0B11LJ69K/ref=sr_1_2?crid=1NHOVPXV7CN0J&keywords=mx%2Bmaster%2B3s&qid=1669211809&qu=eyJxc2MiOiIyLjM2IiwicXNhIjoiMS44NyIsInFzcCI6IjEuODUifQ%3D%3D&sprefix=mx%2Bmaster%2B3%2Caps%2C261&sr=8-2&th=1" },
       { title: "E-Reader", value: "Kindle (10th Gen)", link: "https://www.amazon.in/Kindle-10th-Gen/dp/B07FQ4Q7MB" },
-      { title: "Phone", value: "OnePlus Nord 2", link: "https://www.amazon.in/gp/product/B097RDF6NW/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1" },
+      { title: "Phone", value: "iPhone 13", link: "https://www.apple.com/in/shop/buy-iphone/iphone-13" },
       { title: "Earphones", value: "OnePlus Buds Z", link: "https://www.flipkart.com/oneplus-buds-z-bluetooth-headset/p/itm19b979ac03b7a?pid=ACCFVA3GNUZQZEHZ&lid=LSTACCFVA3GNUZQZEHZNZJSET" },
       { title: "Headphones", value: "JBL T460BT by Harman", link: "https://www.amazon.in/gp/product/B077T4737M/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1" },
       { title: "Desk", value: "Linak Electric Height Adjustable Table", link: "https://www.linak.com/business-areas/desks/office-desks/" },
