@@ -47,17 +47,15 @@ export default {
     enabled: true,
     meta: [
       { title: "Laptop", value: "MacBook Pro M1 (14-inch, 2021)", link: "https://www.apple.com/in/shop/buy-mac/macbook-pro/14-inch-macbook-pro" },
-      { title: "OS", value: "macOS Ventura", link: "https://www.apple.com/in/macos/ventura/" },
       { title: "Memory", value: "32 GB LPDDR5" },
       { title: "Monitor", value: "Samsung LS27R354FHWXXL (27 inch)", link: "https://www.croma.com/samsung-ls27r354fhwxxl-68-5-cm-27-inches-full-hd-flat-panel-game-mode-75hz-ls27r354fhwxxl-grey-/p/260610" },
       { title: "Mouse", value: "Logitech MX Master 3S", link: "https://www.amazon.in/Logitech-MX-Master-3S-Chrome-Graphite/dp/B0B11LJ69K/ref=sr_1_2?crid=1NHOVPXV7CN0J&keywords=mx%2Bmaster%2B3s&qid=1669211809&qu=eyJxc2MiOiIyLjM2IiwicXNhIjoiMS44NyIsInFzcCI6IjEuODUifQ%3D%3D&sprefix=mx%2Bmaster%2B3%2Caps%2C261&sr=8-2&th=1" },
       { title: "E-Reader", value: "Kindle (10th Gen)", link: "https://www.amazon.in/Kindle-10th-Gen/dp/B07FQ4Q7MB" },
       { title: "Phone", value: "iPhone 13", link: "https://www.apple.com/in/shop/buy-iphone/iphone-13" },
-      { title: "Earphones", value: "OnePlus Buds Z", link: "https://www.flipkart.com/oneplus-buds-z-bluetooth-headset/p/itm19b979ac03b7a?pid=ACCFVA3GNUZQZEHZ&lid=LSTACCFVA3GNUZQZEHZNZJSET" },
-      { title: "Headphones", value: "JBL T460BT by Harman", link: "https://www.amazon.in/gp/product/B077T4737M/ref=ppx_yo_dt_b_search_asin_image?ie=UTF8&psc=1" },
+      { title: "Earphones", value: "Airpods Pro (2nd Gen)", link: "https://www.amazon.in/gp/product/B0BDKD8DVD/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1" },
       { title: "Desk", value: "Linak Electric Height Adjustable Table", link: "https://www.linak.com/business-areas/desks/office-desks/" },
       { title: "Chair", value: "Mika Leatherette Study Chair (White)", link: "https://www.urbanladder.com/products/mika-study-chair" },
-      { title: "Fitness Band", value: "MI Smart Band 5", link: "https://www.amazon.in/Smart-AMOLED-Display-Battery-Resistant/dp/B08GXC2NTX/ref=sr_1_1?crid=37AKNHVE2SBAS&keywords=mi+band+5&qid=1669212871&qu=eyJxc2MiOiIzLjI3IiwicXNhIjoiMS44MyIsInFzcCI6IjEuMzAifQ%3D%3D&sprefix=mi+band+%2Caps%2C222&sr=8-1" }
+      { title: "Watch", value: "Apple Watch SE (2nd Gen)", link: "https://www.amazon.in/Apple-Watch-Midnight-Aluminium-Sport/dp/B0BDKJFFX9/ref=sr_1_1_sspa?crid=YC53O0BXA5OU&keywords=apple+watch+se&qid=1706518488&sprefix=apple+watch+s,aps,219&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1" }
     ]
   },
   workedAt: {
