@@ -3,7 +3,7 @@ id: 5
 title: Awdience
 description: "Supercharge your personal brand on LinkedIn."
 tech: nextjs spring-boot mariadb aws
-logo: /images/awdience.svg
+logo: /images/awdience.png
 website: https://awdience.in
 twitter: madhavkauntia
 ---
